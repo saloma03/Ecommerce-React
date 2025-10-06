@@ -1,7 +1,7 @@
 import type { RouteProps } from "react-router";
 import {HomePage} from "../../../pages/Home/ui/HomePage";
-import { LoginPage } from "../../../pages/Login/ui/LoginPage";
-import { routePaths } from "@/shared/ui/config/router/routerPath";
+import { AppRoutes, routePaths } from "@/shared/ui/config/router/routerPath";
+import LoginPage from "@/pages/Login/ui/LoginPage";
 
 
 
