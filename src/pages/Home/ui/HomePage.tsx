@@ -1,6 +1,6 @@
 export const HomePage = () => {
   return (
-    <>Home Page</>
+    <h1>Home Page</h1>
   );
 };
 
